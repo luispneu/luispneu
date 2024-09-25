@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is luis Front-end and back-end developer</p>
+<p align="left">My name is luis jack dos inferno Front-end and back-end developer</p>
 
 ###
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
