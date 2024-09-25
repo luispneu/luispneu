@@ -5,11 +5,12 @@
 <p align="left">My name is luis Front-end and back-end developer</p>
 
 ###
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+
 
 <h2 align="left">studying ifms python java-script programming</h2>
 
 <h2 align="left">I code with</h2>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 
 <h3>🤖 Artificial Intelligence</h3>
  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
