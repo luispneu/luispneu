@@ -11,9 +11,8 @@
 <h2 align="left">I code with</h2>
 
 <h3>🤖 Artificial Intelligence</h3>
-###
+ <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 <h3 align="left">🛠 Language and tools<h3>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
