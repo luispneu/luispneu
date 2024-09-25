@@ -9,6 +9,7 @@
 <h2 align="left">studying ifms python java-script programming</h2>
 
 <h2 align="left">I code with</h2>
+https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 
 ###
 <h3 align="left">🛠 Language and tools<h3>
